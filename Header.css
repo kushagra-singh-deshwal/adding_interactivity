@@ -1,0 +1,23 @@
+li {
+    margin: 10px;
+    list-style-type: none;
+    font-weight: bolder;
+    font-size: large;
+    color: brown;
+}
+
+ul {
+    display: flex;
+    border: 2px solid rgba(0, 0, 255, 0.782);
+    justify-content: center;
+}
+
+.Header {
+    display: flex;
+    justify-content: center;
+}
+
+.Header h1 {
+  
+     color: darkblue; 
+}
